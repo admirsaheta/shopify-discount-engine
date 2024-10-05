@@ -1,0 +1,22 @@
+# Zig build output
+zig-out/
+*.o
+*.zig.o
+
+# Zig cache
+.cache/
+
+# Build artifacts
+*.a
+*.so
+*.dll
+*.exe
+
+# Ignore generated files
+*.zig
+
+# User-specific files
+*.user
+
+# Logs
+*.log
