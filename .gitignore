@@ -12,8 +12,7 @@ zig-out/
 *.dll
 *.exe
 
-# Ignore generated files
-*.zig
+
 
 # User-specific files
 *.user
